@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+.idea
+
+# Generic
+*.log
+*.backup
+
+# App
+/dist/**
+/hello
+/hello.exe
