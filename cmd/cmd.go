@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"hello/cmd/root"
+	_ "hello/cmd/version"
 
 	"github.com/spf13/cobra"
 )
